@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🌐 **Website**: [ai tattoo generator](https://tattooer.info/)
+[Read One Piece Online](https://onepiece-read.online/)
 📂 **Portfolio**: [View My Projects](https://bento.me/trumann)
 
 💻 **Tech Stack**: JavaScript | Python | Node.js  
